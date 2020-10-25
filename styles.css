@@ -384,7 +384,7 @@ font-weight: lighter;
 
     }
 
-@media (max-width: 600px) {
+@media (max-width: 400px) {
     .news-cards {
         grid-template-columns: 1fr;
 
